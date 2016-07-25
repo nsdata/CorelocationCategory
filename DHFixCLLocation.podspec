@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "DHFixCLLocation"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "Fix the CLLocationCoordinate2D from WGS-84 To GCJ-02"
 
   # This description is used to generate tags and improve search results.
@@ -46,7 +46,7 @@ Pod::Spec.new do |s|
   s.author             = { "Tony Duan" => "duanhai@outlook.com" }
   # Or just: s.author    = "Tony Duan"
   # s.authors            = { "Tony Duan" => "duanhai@outlook.com" }
-  # s.social_media_url   = "http://twitter.com/Tony Duan"
+  # s.social_media_url   = "http://seaswift.org"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
@@ -67,7 +67,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/nsdata/CorelocationCategory.git", :tag => "1.0.0" }
+  s.source       = { :git => "https://github.com/nsdata/CorelocationCategory.git", :tag => "1.0.1" }
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
